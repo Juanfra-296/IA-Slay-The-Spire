@@ -1,0 +1,52 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Model files (IA entrenada)
+models/
+*.pt
+*.pth
+*.onnx
+
+# Data files
+data/
+datasets/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build
+dist/
+build/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# PyTorch checkpoints
+checkpoints/
+
+# Debug
+*.bak
+*.swp
